@@ -1,3 +1,4 @@
 public class Foo{
-	public int x=10;
+
+	public int x=20;
 }
